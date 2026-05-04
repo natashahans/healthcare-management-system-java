@@ -19,7 +19,7 @@ The system supports role-based access for patients, clinicians, and administrati
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="screenshots/three_tier.png" width="60%" />
+  <img src="screenshots/three_tier.png" width="100%" />
 </p>
 
 The system follows a three-tier architecture:
@@ -33,12 +33,12 @@ The system follows a three-tier architecture:
 
 ### Use Case Diagram
 <p align="center">
-  <img src="screenshots/use_case.png" width="60%" />
+  <img src="screenshots/use_case.png" width="100%" />
 </p>
 
 ### Class Diagram
 <p align="center">
-  <img src="screenshots/class.png" width="60%" />
+  <img src="screenshots/class.png" width="100%" />
 </p>
 
 ---
