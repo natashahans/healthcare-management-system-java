@@ -1,0 +1,10 @@
+=== OFFICIAL MEDICAL PRESCRIPTION ===
+Prescription ID: RX243
+Date Issued:     2026-01-13
+Medication:      
+Dosage/Freq:     500mg (Daily)
+Duration:        14 days
+Instructions:    Take after meal
+Pharmacy:        Boots Pharmacy
+Authorized By:   C003
+=====================================

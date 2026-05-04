@@ -1,0 +1,15 @@
+=== HMS GLOBAL SYSTEM AUDIT REPORT ===
+Generated: Thu Jan 15 05:23:42 PKT 2026
+--------------------------------------
+REGISTRY TOTALS:
+Total Patients:     9
+Total Staff:        12
+Active Referrals:   0
+
+APPOINTMENT BREAKDOWN:
+Total Recorded:     9
+Current Scheduled:  6
+Total Cancelled:    3
+--------------------------------------
+System Status:      OPTIMAL
+
